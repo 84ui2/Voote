@@ -1,0 +1,6 @@
+{
+  "name": "تاونات تستحق الأفضل",
+  "description": "منصة تفاعلية لمحاكاة استطلاع رأي محلي وتجريبي حول أولويات ومستقبل إقليم تاونات",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
